@@ -1,4 +1,4 @@
-```python
+```ini
 $ aatifetch
                   -`                        aatish@arch
                  .o+`                       ----------
