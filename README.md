@@ -23,14 +23,14 @@ $ aatifetch
 
 <br>
 
-## 🧑‍💻 About Me
+## About Me
 
 Hey, I'm Aatish – a tech enthusiast who loves working with systems, gadgets, and UI/UX.  
 I enjoy building clean, purposeful software, and diving deep into how things work under the hood – whether it's operating systems, smartphones, or web tech.
 
 Studying Computer Science at Vishwakarma Institute of Technology, Pune
 
-## 🧩 Stuff I’ve Worked With
+## Stuff I’ve Worked With
 
 **Languages:** C, C++, Dart, Python  
 
@@ -40,14 +40,14 @@ Studying Computer Science at Vishwakarma Institute of Technology, Pune
 
 **Tools:** VSCode, Android Studio, Git, Figma  
 
-## 🚀 Highlight Projects
+## Highlight Projects
 
 <img src="./assets/volunera-text-logo-white.svg" alt="VolunEra Logo" width="280"/>
 
 ### **VolunEra**  
 A full-stack web platform connecting volunteers and NGOs.  
-🛠️ Angular + Firebase  
-🌍 Google Solution Challenge 2025  
+- Angular + Firebase  
+- Google Solution Challenge 2025  
 ![Under Development](https://img.shields.io/badge/status-under--development-orange)
 
 > *"Connect, Contribute, and Create Impact in Your Community"*
@@ -57,15 +57,30 @@ A full-stack web platform connecting volunteers and NGOs.
 <img src="./assets/icon/RA_white.png" alt="RoadAware Logo" width="150"/>  
 <!-- <img src="./assets/icon/roadaware_icon_text-white.png" alt="RoadAware Text Logo" width="240"/> -->
 
-### **RoadAware** V1.0.1+5  
+### **RoadAware**
 A smart road hazard detection and alert system for drivers.  
-🛠️ Flutter + Firebase  
-🚧 Realtime detection + hazard mapping  
+- Flutter + Firebase  
+- Realtime detection + hazard mapping  
 ![Under Development](https://img.shields.io/badge/status-under--development-orange)
 
 > *"Drive safer with motion-based alerts and user-reported hazards."*
 
-## 📫 Contact Me
+---
+
+<img src="./assets/Swapzo-logo_V1.png" alt="Swapzo Logo" width="200"/>
+
+### **Swapzo**  
+A global platform that enables people to exchange anything — skills, services, or goods — directly without money.  
+- Next.js + Node.js + Firebase  
+- AI-Powered Matching with Gemini Genkit
+- Hosted on Vercel  
+![Under Development](https://img.shields.io/badge/status-under--development-orange)
+
+> *"Exchange What You Have. Discover What You Need."*
+
+---
+
+## Contact Me
 
 - Email: [contact@aatish.io](mailto:contact@aatish.io)  
 
