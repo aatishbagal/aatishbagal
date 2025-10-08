@@ -2,7 +2,7 @@
 $ aatifetch
                   -`                        aatish@arch
                  .o+`                       ----------
-                `ooo/                       Uptime: "18 years"
+                `ooo/                       Uptime: "19 years"
                `+oooo:                      Location: "Maharashtra, India"
               `+oooooo:                     Languages: ["C", "C++", "Dart", "Python"]
               -+oooooo+:                    Editor: "VS Code / Android Studio"
