@@ -45,7 +45,7 @@ Studying Computer Science at Vishwakarma Institute of Technology, Pune
 <img src="./assets/icon/SynaptV2_White_SVG.svg" alt="Synapt Logo" width="120" align="center"/>
 
 ### **Synapt**
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/aatishbagal/Synapt)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/aatishbagal/synapt-legacy)
 
 Multi-Device Search Utility connecting your files across all devices.
 
