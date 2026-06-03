@@ -44,18 +44,21 @@ Studying Computer Science at Vishwakarma Institute of Technology, Pune
 
 <img src="./assets/icon/SynaptV2_White_SVG.svg" alt="Synapt Logo" width="120" align="center"/>
 
-### **Synapt**
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/aatishbagal/synapt-legacy)
+### **Synapt Toolchain**
+[![GitHub](https://img.shields.io/badge/GitHub-synapt-181717?style=for-the-badge&logo=github)](https://github.com/aatishbagal/synapt)
+[![GitHub](https://img.shields.io/badge/GitHub-synapt--clip-181717?style=for-the-badge&logo=github)](https://github.com/aatishbagal/synapt-clip)
+[![GitHub](https://img.shields.io/badge/GitHub-synapt--core-181717?style=for-the-badge&logo=github)](https://github.com/aatishbagal/synapt-core)
 
-Multi-Device Search Utility connecting your files across all devices.
+A local-network utility toolchain — **Synapt** (Spotlight-style file launcher & transfer), **SynaptClip** (clipboard manager with cross-device sync), and **synapt-core** (shared types & protocol layer).
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_(In_Dev)-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/macOS_(In_Dev)-000000?style=for-the-badge&logo=apple&logoColor=white)
-
+![macOS](https://img.shields.io/badge/macOS_(Planned)-000000?style=for-the-badge&logo=apple&logoColor=white)
 ---
 
 <img src="./assets/icon/volunera-text-logo-white.svg" alt="VolunEra Logo" width="280"/>
