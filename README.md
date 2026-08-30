@@ -1,14 +1,14 @@
 ```ini
-$ aatifetch
+$ neofetch
                   -`                        aatish@arch
                  .o+`                       ----------
-                `ooo/                       Location: "Maharashtra, India"
-               `+oooo:                      Studying: "CS @ VIT Pune"
-              `+oooooo:                     Languages: ["Rust", "C/C++", "Dart", "TypeScript"]
-              -+oooooo+:                    Editor: "VS Code + Claude Code"
-            `/:-:++oooo+:                   Interests: ["Systems", "UI/UX", "Agentic Coding"]
-           `/++++/++++++:                   Highlight Proj: "Synapt Toolchain"
-          `/+++++++++++++/`
+                `ooo/                       Uptime: "20 years"
+               `+oooo:                      Location: "Maharashtra, India"
+              `+oooooo:                     Studying: "CS @ VIT Pune"
+              -+oooooo+:                    Languages: ["Rust", "C/C++", "Dart", "TypeScript"]
+            `/:-:++oooo+:                   Editor: "VS Code + Claude Code"
+           `/++++/++++++:                   Interests: ["Systems", "UI/UX", "Agentic Coding"]
+          `/+++++++++++++/`                 Highlight Proj: "Synapt Toolchain"
          `/+++ooooooooooo/`
         ./ooosssso++osssssso+`
        .oossssso-````/ossssss+`
